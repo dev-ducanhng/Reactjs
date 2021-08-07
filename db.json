@@ -1,0 +1,151 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Quần"
+    },
+    {
+      "id": "2",
+      "name": "Áo"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Áo T shirt nữ cổ tròn Cotton",
+      "price": "149.000",
+      "images": "https://onoff.vn/media/catalog/product/cache/ecd9e5267dd6c36af89d5c309a4716fc/H16TS20138.jpg",
+      "categoryId": "2",
+      "createdAt": "2021-08-02T07:22:05.682Z",
+      "email": "Ian_Bahringer@yahoo.com",
+      "detail": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "updateAt": "2021-08-02T09:19:07.375Z"
+    },
+    {
+      "id": "2",
+      "name": "Áo crop top thể thao nữ",
+      "price": "399.000",
+      "images": "https://onoff.vn/media/catalog/product/cache/ecd9e5267dd6c36af89d5c309a4716fc/H16TR19046.jpg",
+      "createdAt": "2021-08-01T21:26:25.474Z",
+      "email": "Alvah_Dickinson50@hotmail.com",
+      "categoryId": 2,
+      "detail": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "updateAt": "2021-08-01T22:38:58.244Z"
+    },
+    {
+      "id": "3",
+      "name": "Áo Active Dri-balance nữ cổ tròn",
+      "price": "299.000",
+      "images": "https://onoff.vn/media/catalog/product/cache/ecd9e5267dd6c36af89d5c309a4716fc/H16TS19023.jpg",
+      "categoryId": "1",
+      "createdAt": "2021-08-01T21:18:52.613Z",
+      "email": "Cameron33@hotmail.com",
+      "detail": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "updateAt": "2021-08-02T12:20:07.543Z"
+    },
+    {
+      "id": "4",
+      "name": "Quần short active nữ",
+      "price": "481.00",
+      "images": "https://onoff.vn/media/catalog/product/cache/ecd9e5267dd6c36af89d5c309a4716fc/H16BS19025.jpg",
+      "createdAt": "2021-08-02T11:47:18.386Z",
+      "email": "Albina.Marvin46@yahoo.com",
+      "categoryId": 1,
+      "detail": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "updateAt": "2021-08-01T22:53:49.709Z"
+    },
+    {
+      "id": "5",
+      "name": "Áo Active Dri-balance nữ cổ tim",
+      "price": "299.000",
+      "images": "https://onoff.vn/media/catalog/product/cache/ecd9e5267dd6c36af89d5c309a4716fc/H16BS19025.jpg",
+      "createdAt": "2021-08-02T15:02:16.537Z",
+      "email": "Quentin41@hotmail.com",
+      "categoryId": 2,
+      "detail": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "updateAt": "2021-08-02T03:22:27.279Z"
+    },
+    {
+      "id": "6",
+      "name": "Áo thể thao nữ dài tay cổ tròn",
+      "price": "572.00",
+      "images": "https://onoff.vn/media/catalog/product/cache/ecd9e5267dd6c36af89d5c309a4716fc/H16TL17010.jpg",
+      "createdAt": "2021-08-02T04:11:00.733Z",
+      "email": "Peter.Waters@yahoo.com",
+      "categoryId": 2,
+      "detail": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "updateAt": "2021-08-02T03:07:04.666Z"
+    },
+    {
+      "id": "7",
+      "name": "Áo khoác nữ 5 trong 1",
+      "price": "699.000",
+      "images": "https://onoff.vn/media/catalog/product/cache/ecd9e5267dd6c36af89d5c309a4716fc/H16TJ20092.jpg",
+      "categoryId": 2,
+      "createdAt": "2021-08-02T12:54:09.283Z",
+      "email": "Maggie_Rice91@hotmail.com",
+      "detail": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "updateAt": "2021-08-02T02:01:56.411Z"
+    },
+    {
+      "id": "9",
+      "name": "Quần short active nữ",
+      "price": "299.000",
+      "images": "https://onoff.vn/media/catalog/product/cache/ecd9e5267dd6c36af89d5c309a4716fc/H16BS19045.jpg",
+      "createdAt": "2021-08-02T03:25:18.668Z",
+      "email": "Jennifer99@yahoo.com",
+      "categoryId": 1,
+      "detail": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "updateAt": "2021-08-02T15:27:24.276Z"
+    },
+    {
+      "id": "10",
+      "name": "Quần Short thể thao nữ",
+      "price": "941.00",
+      "images": "https://onoff.vn/media/catalog/product/cache/ecd9e5267dd6c36af89d5c309a4716fc/H16BS17001.jpg",
+      "createdAt": "2021-08-01T19:57:20.324Z",
+      "email": "Lillie34@gmail.com",
+      "categoryId": 1,
+      "detail": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "updateAt": "2021-08-01T19:39:44.716Z"
+    },
+    {
+      "id": "11",
+      "name": "Quần short nữ",
+      "price": "515.00",
+      "images": "https://onoff.vn/media/catalog/product/cache/ecd9e5267dd6c36af89d5c309a4716fc/H16BS17002.jpg",
+      "createdAt": "2021-08-02T02:29:32.424Z",
+      "email": "Richie_Kiehn54@hotmail.com",
+      "categoryId": 1,
+      "detail": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "updateAt": "2021-08-01T18:03:58.882Z"
+    },
+    {
+      "id": "0404264235034345",
+      "name": "1112222222",
+      "price": "1111",
+      "images": "https://static.sonkimfashion.vn/static/file/image/vera/vera-quan-lot-modern-brief-9403-do-quan-3_0c7709ceb71f403bbfd3eb8ded47a925_large.jpg",
+      "categoryId": "1"
+    }
+  ],
+  "users": [
+    {
+      "email": "anh111111@gmail.com",
+      "password": "$2a$10$R9iA9ojNVaeBK6MirPaiDOi6xZPzGTaqErQqH1f5ZxE6wfeWBqr12",
+      "username": "",
+      "id": 2
+    },
+    {
+      "email": "anh@gmail.com",
+      "password": "$2a$10$6bX.urNB0p3qYHuTYZPlTeGbVUlyeWWZ7585vycpakWqnbJR7SYee",
+      "username": "aaa",
+      "id": 3
+    },
+    {
+      "email": "anh222222@gmail.com",
+      "password": "$2a$10$8yTj6lIaLWT8UKGVFxmBruo9wOk9zJ1KR3GbUWZdm3j/OXXpRF.He",
+      "username": "anh23",
+      "id": 4
+    }
+  ]
+}
